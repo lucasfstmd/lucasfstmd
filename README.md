@@ -16,13 +16,12 @@
   <img align="center" alt="html5" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>  
   <img align="center" alt="html5" src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
-  
+  <img align="center" alt="html5" src= "https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>  
 </div>
 
 ## Top Linguagens
