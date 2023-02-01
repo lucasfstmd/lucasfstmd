@@ -11,15 +11,15 @@
 
 ## Tecnologias que uso
 
-<div class="responsive-imgs" style=".responsive-imgs {
+<div class="imgs" style=".imgs {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    border: 10px;
   }
-   .responsive-imgs img {
+   .imgs img {
     width: 200px;
     margin: 20px;
-    border: 10px;
   }">
   <img align="center" alt="html5" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
