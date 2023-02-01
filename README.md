@@ -9,7 +9,7 @@
 
 ### Experiencia com analise de dados e atualmente se aprofundando em Java
 
-## Tecnologias que uso
+## Minhas Skills
 
 <div class="imgs" style=".imgs {
     display: flex;
