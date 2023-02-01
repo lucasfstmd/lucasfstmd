@@ -23,7 +23,16 @@
   }
 </style>
 
-<div class="responsive-imgs">
+<div class="responsive-imgs" style=".responsive-imgs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+   .responsive-imgs img {
+    width: 200px;
+    margin: 20px;
+    border: 10px;
+  }">
   <br/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
