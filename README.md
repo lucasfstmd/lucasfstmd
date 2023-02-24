@@ -7,8 +7,6 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfstmd&show_icons=true&theme=dracula)
 
-### Experiencia com analise de dados e atualmente se aprofundando em Java
-
 ## Minhas Skills
 
 <div class="imgs" style=".imgs {
