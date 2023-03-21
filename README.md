@@ -4,6 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.fstmd/)
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-fausto-medeiros-9bb5b6227)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21446940/lucas-fausto-medeiros)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfstmd&show_icons=true&theme=dracula)
 
