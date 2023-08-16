@@ -23,9 +23,6 @@
   <img align="center" alt="html5" src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img align="center" alt="html5" src= "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" alt="html5" src= "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 </div>
 
 ## Top Linguagens
